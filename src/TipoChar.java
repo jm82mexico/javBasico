@@ -22,6 +22,7 @@ public class TipoChar {
         System.out.println("CharDecimal = " + CharDecimal2);
 //        Se puede declarar con su simbolo
         var CharSimbolo2 = '!';
-        System.out.println("CharSimbolo = " + CharSimbolo2);    
+        System.out.println("CharSimbolo = " + CharSimbolo2);
+
     }
 }
